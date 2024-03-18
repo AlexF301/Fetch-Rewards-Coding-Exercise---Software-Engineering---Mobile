@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fetch Rewards Coding Exercise - Software Engineering - Mobile</string>
+    <string name="data_unavailable">Unable to retrieve data</string>
+</resources>
